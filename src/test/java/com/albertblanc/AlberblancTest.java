@@ -15,7 +15,7 @@ import static io.qameta.allure.Allure.step;
 public class AlberblancTest extends AlberBlancTestBase {
     @Tag("remote")
     @Test
-    void rightBurgerShouldHaveMenu() {
+    void smokeMainPageTest() {
 
         SelenideLogger.addListener("allure", new AllureSelenide());
         step("Open main page", () -> open(baseUrl));
