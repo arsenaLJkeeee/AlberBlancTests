@@ -29,6 +29,31 @@ public class AlberblancTest extends AlberBlancTestBase {
                     .shouldHave(Condition.text("CareerS"));
         });
 
+        step("Click on All Locations", () -> {
+            $(byText("All Locations"))
+                    .shouldBe(Condition.visible)
+                    .click();
+        });
+
+        step("Check if Cyprus text is present and select it", () -> {
+            $(byText("Cyprus"))
+                    .shouldHave(Condition.text("Cyprus"))
+                    .click();
+        });
+
+        step("Click on All Categories", () -> {
+            $(byText("All Categories"))
+                    .shouldBe(Condition.visible)
+                    .click();
+        });
+
+        step("Click on Quality Assurance", () -> {
+            $(byText("Quality Assurance"))
+                    .shouldBe(Condition.visible)
+                    .click();
+        });
+
+
         step("Click on Team", () -> {
             $(byText("Team"))
                     .shouldBe(Condition.visible)
