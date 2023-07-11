@@ -44,7 +44,7 @@ ____
 ## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/></a><a name="Build"></a>Build in [Jenkins](https://jenkins.autotests.cloud/job/VRBorchevskiy-qa_guru_20_jenkins_remote/)</a>
 ____
 <p align="center">  
-<a href="https://jenkins.autotests.cloud/job/VRBorchevskiy-qa_guru_20_jenkins_remote"><img src="images/screen/jenkins_build.png" alt="Jenkins" width="950"/></a>  
+<a href="https://jenkins.autotests.cloud/job/VRBorchevskiy-qa_guru_20_jenkins_remote"><img src="images/screen/jenkins_build.jpg" alt="Jenkins" width="950"/></a>  
 </p>
 
 
