@@ -95,12 +95,6 @@ ___
 <img title="Allure Graphics" src="images/screen/graphs.png" width="850">  
 </p>
 
-### *Аutomated test-cases*
-
-<p align="center">  
-<img title="Allure TestOps Tests" src="images/screen/allure_autotestsN.png" width="850">  
-</p>
-
 ____
 <a id="video"></a>
 ## <img alt="Selenoid" height="25" src="images/logo/Selenoid.svg" width="25"/></a> Video of launched automated tests
