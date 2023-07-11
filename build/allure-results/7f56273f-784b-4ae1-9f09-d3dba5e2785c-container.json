@@ -1,0 +1,1 @@
+{"uuid":"7f56273f-784b-4ae1-9f09-d3dba5e2785c","name":"AlberblancTest","children":["0b43ed4e-cc5a-4b17-9e44-d650c1d7e9be"],"befores":[{"name":"beforeAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1689015866862,"stop":1689015866893}],"afters":[],"start":1689015866783,"stop":1689015905943}
