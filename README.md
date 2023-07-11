@@ -78,13 +78,14 @@ ___
 ### *Main page of report*
 
 <p align="center">  
-<img title="Allure Overview Dashboard" src="images/screen/jenkins.png" width="850">  
+<img title="Allure Overview Dashboard" src="images/screen/jenkins.jpg" width="850">  
 </p>  
 
 ### *Test-cases*
 
 <p align="center">  
-<img title="Allure Tests" src="images/screen/jenkins_tests.png" width="850">  
+<img title="Allure Tests" src="images/screen/alberblanctestcases.jpg" width="850">  
+<img title="Allure Tests" src="images/screen/alberblancdataoftestcases.jpg" width="850">  
 </p>
 
 ### *Graphics*
